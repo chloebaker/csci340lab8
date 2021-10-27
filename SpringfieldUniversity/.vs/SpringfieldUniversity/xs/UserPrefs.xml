@@ -18,7 +18,11 @@
                 <Node name="SchoolContext.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Students" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -35,7 +35,7 @@ namespace SpringfieldUniversity.Pages.Students
                 return Page();
             }
 
-            _context.Student.Add(Student);
+            _context.Students.Add(Student);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");
