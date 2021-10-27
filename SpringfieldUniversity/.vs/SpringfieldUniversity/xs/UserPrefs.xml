@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{2B7516F6-3A7B-49DA-B4A9-E9F7B1919CDE}|Default">
   <MonoDevelop.Ide.ItemProperties.SpringfieldUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/DbInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
     <Files>
       <File FileName="Pages/Shared/_Layout.cshtml" Line="49" Column="39" />
       <File FileName="Pages/Index.cshtml" Line="10" Column="32" />
@@ -8,22 +8,21 @@
       <File FileName="Models/Course.cs" Line="4" Column="22" />
       <File FileName="appsettings.json" Line="13" Column="2" />
       <File FileName="Startup.cs" Line="42" Column="45" />
-      <File FileName="Program.cs" Line="42" Column="10" />
-      <File FileName="Data/DbInitializer.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="34" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SpringfieldUniversity" expanded="True">
             <Node name="SpringfieldUniversity" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="DbInitializer.cs" selected="True" />
-              </Node>
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Students" expanded="True">
                   <Node name="Create.cshtml" expanded="True" />
+                  <Node name="Index.cshtml" expanded="True" />
                 </Node>
+                <Node name="Index.cshtml" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
