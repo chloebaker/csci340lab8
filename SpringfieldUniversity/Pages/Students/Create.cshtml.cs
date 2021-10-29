@@ -35,7 +35,7 @@ namespace SpringfieldUniversity.Pages.Students
             if (await TryUpdateModelAsync<Student>(
                 emptyStudent,
                 "student",   // Prefix for form value.
-                s => s.FirstMidName, s => s.LastName, s => s.EnrollmentDate))
+                s => s.FirstMidName, s => s.LastName, s => s.EnrollmentDate, s => s.age))
             {
                 _context.Students.Add(emptyStudent);
                 await _context.SaveChangesAsync();
