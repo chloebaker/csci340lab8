@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ContosoUniversity
+namespace SpringfieldUniversity
 {
     public static class Utility
     {
