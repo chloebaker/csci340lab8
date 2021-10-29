@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{2B7516F6-3A7B-49DA-B4A9-E9F7B1919CDE}|Default">
   <MonoDevelop.Ide.ItemProperties.SpringfieldUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Courses/DepartmentNamePageModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Courses/Create.cshtml">
     <Files>
       <File FileName="Models/Student.cs" Line="19" Column="49" />
       <File FileName="Models/Instructor.cs" Line="6" Column="22" />
@@ -16,7 +16,9 @@
       <File FileName="Models/SchoolViewModels/InstructorIndexData.cs" Line="6" Column="22" />
       <File FileName="Pages/Instructors/Index.cshtml.cs" Line="14" Column="48" />
       <File FileName="Pages/Instructors/Index.cshtml" Line="11" Column="22" />
-      <File FileName="Pages/Courses/DepartmentNamePageModel.cs" Line="1" Column="1" />
+      <File FileName="Pages/Courses/DepartmentNamePageModel.cs" Line="7" Column="32" />
+      <File FileName="Pages/Courses/Create.cshtml.cs" Line="48" Column="27" />
+      <File FileName="Pages/Courses/Create.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,7 +31,7 @@
               </Node>
               <Node name="Pages" expanded="True">
                 <Node name="Courses" expanded="True">
-                  <Node name="DepartmentNamePageModel.cs" selected="True" />
+                  <Node name="Create.cshtml" expanded="True" selected="True" />
                 </Node>
                 <Node name="Instructors" expanded="True">
                   <Node name="Index.cshtml" expanded="True" />
