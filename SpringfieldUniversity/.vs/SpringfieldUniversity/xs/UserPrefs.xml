@@ -1,25 +1,9 @@
 ﻿<Properties StartupConfiguration="{2B7516F6-3A7B-49DA-B4A9-E9F7B1919CDE}|Default">
   <MonoDevelop.Ide.ItemProperties.SpringfieldUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Instructors/Edit.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Instructors/Create.cshtml">
     <Files>
-      <File FileName="Models/Student.cs" Line="19" Column="49" />
-      <File FileName="Models/Instructor.cs" Line="6" Column="22" />
-      <File FileName="Models/OfficeAssignment.cs" Line="4" Column="22" />
-      <File FileName="Models/Course.cs" Line="23" Column="65" />
-      <File FileName="Models/Department.cs" Line="6" Column="22" />
-      <File FileName="Models/Enrollment.cs" Line="1" Column="1" />
-      <File FileName="Data/SchoolContext.cs" Line="30" Column="75" />
-      <File FileName="Pages/Courses/DepartmentNamePageModel.cs" Line="7" Column="32" />
-      <File FileName="Pages/Courses/Edit.cshtml.cs" Line="73" Column="1" />
-      <File FileName="Pages/Courses/Edit.cshtml" Line="35" Column="91" />
-      <File FileName="Pages/Courses/Delete.cshtml.cs" Line="36" Column="1" />
-      <File FileName="Pages/Courses/Details.cshtml.cs" Line="34" Column="17" />
-      <File FileName="Pages/Courses/Delete.cshtml" Line="37" Column="68" />
-      <File FileName="Pages/Courses/Details.cshtml" Line="30" Column="34" />
-      <File FileName="Models/SchoolViewModels/AssignedCourseData.cs" Line="8" Column="43" />
-      <File FileName="Pages/Instructors/InstructorCoursesPageModel.cs" Line="8" Column="32" />
-      <File FileName="Pages/Instructors/Edit.cshtml.cs" Line="15" Column="47" />
-      <File FileName="Pages/Instructors/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Instructors/Create.cshtml.cs" Line="1" Column="28" />
+      <File FileName="Pages/Instructors/Create.cshtml" Line="72" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -38,7 +22,8 @@
                   <Node name="Edit.cshtml" expanded="True" />
                 </Node>
                 <Node name="Instructors" expanded="True">
-                  <Node name="Edit.cshtml" expanded="True" selected="True" />
+                  <Node name="Create.cshtml" expanded="True" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True" />
                 </Node>
               </Node>
             </Node>
