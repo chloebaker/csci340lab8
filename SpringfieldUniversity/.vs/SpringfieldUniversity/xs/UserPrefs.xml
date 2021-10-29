@@ -1,21 +1,25 @@
 ﻿<Properties StartupConfiguration="{2B7516F6-3A7B-49DA-B4A9-E9F7B1919CDE}|Default">
   <MonoDevelop.Ide.ItemProperties.SpringfieldUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Departments/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Departments/Edit.cshtml.cs">
     <Files>
       <File FileName="Models/Department.cs" Line="27" Column="69" />
-      <File FileName="Data/SchoolContext.cs" Line="33" Column="17" />
-      <File FileName="Utility.cs" Line="13" Column="2" />
-      <File FileName="Pages/Departments/Index.cshtml" Line="5" Column="31" />
+      <File FileName="Data/SchoolContext.cs" Line="8" Column="32" />
+      <File FileName="Utility.cs" Line="3" Column="32" />
+      <File FileName="Pages/Departments/Index.cshtml" Line="51" Column="18" />
+      <File FileName="Pages/Departments/Edit.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SpringfieldUniversity" expanded="True">
             <Node name="SpringfieldUniversity" expanded="True">
+              <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Departments" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                  <Node name="Edit.cshtml" expanded="True">
+                    <Node name="Edit.cshtml.cs" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
