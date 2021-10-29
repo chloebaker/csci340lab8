@@ -1,34 +1,27 @@
 ﻿<Properties StartupConfiguration="{2B7516F6-3A7B-49DA-B4A9-E9F7B1919CDE}|Default">
   <MonoDevelop.Ide.ItemProperties.SpringfieldUniversity PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/SchoolContext.cs">
     <Files>
-      <File FileName="Pages/Students/Index.cshtml" Line="91" Column="5" />
-      <File FileName="Pages/Students/Create.cshtml.cs" Line="43" Column="14" />
-      <File FileName="Pages/Students/Details.cshtml" Line="28" Column="14" />
-      <File FileName="Pages/Students/Edit.cshtml.cs" Line="58" Column="14" />
-      <File FileName="Pages/Students/Edit.cshtml" Line="1" Column="1" />
-      <File FileName="Pages/Students/Delete.cshtml.cs" Line="16" Column="39" />
-      <File FileName="Pages/Students/Delete.cshtml" Line="10" Column="47" />
-      <File FileName="Pages/Students/Index.cshtml.cs" Line="82" Column="1" />
-      <File FileName="PaginatedList.cs" Line="19" Column="34" />
-      <File FileName="appsettings.json" Line="2" Column="17" />
-      <File FileName="SchoolViewModels/EnrollmentDateGroup.cs" Line="13" Column="2" />
-      <File FileName="Pages/About.cshtml" Line="2" Column="29" />
-      <File FileName="Pages/About.cshtml.cs" Line="10" Column="32" />
-      <File FileName="Program.cs" Line="33" Column="19" />
+      <File FileName="Models/Student.cs" Line="19" Column="49" />
+      <File FileName="Models/Instructor.cs" Line="6" Column="22" />
+      <File FileName="Models/OfficeAssignment.cs" Line="4" Column="22" />
+      <File FileName="Models/Course.cs" Line="23" Column="65" />
+      <File FileName="Models/Department.cs" Line="6" Column="22" />
+      <File FileName="Models/Enrollment.cs" Line="1" Column="1" />
+      <File FileName="Data/SchoolContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SpringfieldUniversity" expanded="True">
             <Node name="SpringfieldUniversity" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="SchoolViewModels" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="SchoolContext.cs" selected="True" />
               </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="About.cshtml" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
