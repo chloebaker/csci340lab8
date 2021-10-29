@@ -170,3 +170,8 @@
 /Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Students/Index.cshtml.g.cs
 /Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/About.cshtml.g.cs
 /Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/About 2.cshtml.g.cs
+/Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Create.cshtml.g.cs
+/Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Delete.cshtml.g.cs
+/Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Details.cshtml.g.cs
+/Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Edit.cshtml.g.cs
+/Users/chloebaker/Documents/Fall 2021/Databases and Web Systems/csci340lab8/SpringfieldUniversity/obj/Debug/net5.0/Razor/Pages/Courses/Index.cshtml.g.cs
